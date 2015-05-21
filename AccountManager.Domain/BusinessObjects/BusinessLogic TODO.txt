@@ -1,0 +1,13 @@
+﻿LOGIC TO DO FOR INCOME:
+1. Need to automatically calculate tithe when there is an income entry.
+2. Need to automatically calculate deductable tax from any income.
+3. Need to add whatever income to actual account balance
+4. It would be nice to have the tithe module to automatically deduct the tithe and use interswitch to pay to church account.
+5. Need to make sure that the moment an income is captured, account balance is updated and potential deductions should be made
+
+
+6. For evey update or delete, the record should be duplicated and stored separately from the main data of the application
+7. For every delete, the records should not be destroyed, but made non visible to the client calling the records relevant.
+8. For every entry made in the entire application, there should be a relevant log entry made to keep track of activities
+9. For every income entry there should be a tax deductable that could apply where relevant.
+10. Should we use both Javascript for clientside tax deduction calculations or use server side for tax calculations?

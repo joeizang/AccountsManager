@@ -1,0 +1,566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"TestFixtureAttribute	TestFixtureAttribute"
+			],
+			[
+				"enu",
+				"EnumerateFiles()	IEnumerable<FileInfo>"
+			],
+			[
+				"Micrp",
+				"Microsoft.AspNet.FileProviders.Interfaces"
+			],
+			[
+				"Microsoft",
+				"Microsoft.AspNet.Http"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AccountManager.Web/Controllers/ExpensesController.cs",
+			"settings":
+			{
+				"buffer_size": 6039,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AccountManager.Web/Views/Expenses/Details.cshtml",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AccountManager.Domain/Contexts/AccountManagerdb.cs",
+			"settings":
+			{
+				"buffer_size": 1996,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"Run K Commands"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"run ",
+				"Run K Commands"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"yo aspnet:Class ModelTest",
+			"where jshint",
+			"where linter",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/CODE/AccountManger",
+		"/D/CODE/AccountManger/AccountManager.Web",
+		"/D/CODE/AccountManger/AccountManager.Web/Views",
+		"/D/CODE/AccountManger/AccountManager.Web/Views/Expenses",
+		"/D/CODE/AccountManger/AccountManager.Web/Views/Shared"
+	],
+	"file_history":
+	[
+		"/D/CODE/AccountManger/AccountManager.Domain/Repository/Repository.cs",
+		"/D/CODE/AccountManger/AccountManager.Web/Views/Shared/_Layout.cshtml",
+		"/D/CODE/AccountManger/AccountManager.Web/Views/Expenses/Index.cshtml",
+		"/D/CODE/AccountManger/accountmanager.sublime-project",
+		"/D/CODE/SeeChojiKim_2/SeeChojiKimsublime.sublime-project",
+		"/D/CODE/SeeChojiKim_2/SeeChojiKim/Controllers/HomeController.cs",
+		"/D/SeeKimChoji.com/SeeKimChoji.com/Controllers/HomeController.cs",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/CSS3/CSS3.sublime-settings",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/CSS3.sublime-settings",
+		"/D/SeeKimChoji.com/KimChojiTest/UnitTest1.cs",
+		"/D/SeeKimChoji.com/SeeKimChoji.com/packages.config",
+		"/D/SeeKimChoji.com/SeeKimChoji.com/SeeKimChoji.com.csproj",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/D/SeeKimChoji.com/SeeKimChoji.com/Infrastructure/image.cs",
+		"/D/SeeKimChoji.com/seekc.sublime-project",
+		"/D/SeeKimChoji.com/SyncToy_d888e919-bac6-4d9e-9ea4-657d3b10c24a.dat",
+		"/C/Users/IZANG/FileUploadLogic/FileUploadTest.cs",
+		"/C/Users/IZANG/Downloads/UploadControllerTests.cs",
+		"/C/Users/IZANG/Documents/Visual Studio 2013/Code Snippets/Visual C#/My Code Snippets/mthd.snippet",
+		"/C/Users/IZANG/FileUploadLogic/FileUploadTest",
+		"/C/Users/IZANG/FileUploadLogic/project.json",
+		"/C/Users/IZANG/FileUploadLogic/FileUploadLogic.sublime-project",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/TestAspvnext.sublime-project",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/project.json",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/Controllers/HomeController.cs",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/Models/SampleModel.cs",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/Kulture/README.md",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/TestAspvnext.sln",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/Users/IZANG/Documents/Projects/TestAspvnext/bower.json",
+		"/D/KimChojiUnitTests.cs",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/IZANG/Downloads/Compressed/startbootstrap-scrolling-nav-1.0.3/startbootstrap-scrolling-nav-1.0.3/extract.css",
+		"/C/Users/IZANG/Downloads/Compressed/startbootstrap-scrolling-nav-1.0.3/startbootstrap-scrolling-nav-1.0.3/index.html",
+		"/C/Users/IZANG/Downloads/Compressed/startbootstrap-scrolling-nav-1.0.3/startbootstrap-scrolling-nav-1.0.3/js/scrolling-nav.js",
+		"/C/Users/IZANG/Downloads/Compressed/startbootstrap-scrolling-nav-1.0.3/startbootstrap-scrolling-nav-1.0.3/css/scrolling-nav.css",
+		"/D/startbootstrap-grayscale-1.0.3/startbootstrap-grayscale-1.0.3/css/grayscale.css",
+		"/D/startbootstrap-grayscale-1.0.3/startbootstrap-grayscale-1.0.3/index.html",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/D/startbootstrap-landing-page-1.0.3/startbootstrap-landing-page-1.0.3/index.html",
+		"/C/Users/IZANG/Documents/mockup/index.html",
+		"/C/Users/IZANG/Documents/indel.html",
+		"/C/Users/IZANG/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AccountManager.Web/Controllers/ExpensesController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1575,
+								1575
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AccountManager.Web/Views/Expenses/Details.cshtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "AccountManager.Domain/Contexts/AccountManagerdb.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "accountmanager.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

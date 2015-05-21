@@ -1,0 +1,74 @@
+﻿@model AccountManager.Domain.Entities.Income
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Income</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IncomeCategory.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IncomeCategory.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Payer.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Payer.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Receiver.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Receiver.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tithe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tithe)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IncomeId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
